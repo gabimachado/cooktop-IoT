@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+
+<body>
+<p> {{r}} </p>
+<h3>Intensity</h3>
+<form action="" method="post">{% csrf_token %}
+<input type="submit" name="low" value="low" />
+<input type="submit" name="medium" value="medium" />
+<input type="submit" name="high" value="high" />
+<input type="submit" name="off" value="off" />
+</form>
+<br>
+<h3>Mode</h3>
+<form action="" method="post">{% csrf_token %}
+<input type="submit" name="auto" value="auto" />
+<input type="submit" name="manual" value="manual" />
+</form>
+</body>
+</html>
