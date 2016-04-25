@@ -2,4 +2,4 @@
 
 
 
-<div style="text-align:center"><img src ="https://github.com/gabimachado/cooktop-IoT/blob/master/doc/project.min.jpg" /></div>
+<div style="text-align:center"><img src ="https://github.com/gabimachado/cooktop-IoT/blob/master/doc/cooktop_sketch.jpg" /></div>
