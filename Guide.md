@@ -1,2 +1,1 @@
-#Induction Cooktop
-##How to create your own device
+#Induction Cooktop - How to create your own device
