@@ -4,7 +4,7 @@ The aim of this project was to control an induction cooktop from a web applicati
 
 The proposed solution was to design a home automation system that has two modes - Auto and Manual. In the Manual mode, the user will choose a temperature level and the LEDs will switch on to emulate the corresponding heating intensity. In the Auto mode, the web application will display the current temperature and the system will automatically switch the LED lights to represent the level of heating being measured. Real time temperature analysis is made on ThingSpeak.
 
-## Device sketch
+## Device Sketch
 
 <div style="text-align:center"><img src ="https://github.com/gabimachado/cooktop-IoT/blob/master/doc/cooktop_sketch.jpg" /></div>
 
