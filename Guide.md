@@ -18,12 +18,20 @@ First of all, you need to prepare your Raspberry Pi. Using the Terminal, follow 
 <div style="text-align:center"><img src ="https://github.com/gabimachado/cooktop-IoT/blob/master/doc/admin.png" /></div>
 
 * At the first time, post the following:
+<br>
 **manual** to the mode list at **http://127.0.0.1:8000/mode/**
 <div style="text-align:center"><img src ="https://github.com/gabimachado/cooktop-IoT/blob/master/doc/mode.png" /></div>
 <br>
 **off** to the state list at **http://127.0.0.1:8000/state/**
 <div style="text-align:center"><img src ="https://github.com/gabimachado/cooktop-IoT/blob/master/doc/state.png" /></div>
 <br>
+
+* Run the Controller
+<div style="text-align:center"><img src ="https://github.com/gabimachado/cooktop-IoT/blob/master/doc/controller.png" /></div>
+
+* View the app from a browser at http://127.0.0.1:8000/home 
+<div style="text-align:center"><img src ="https://github.com/gabimachado/cooktop-IoT/blob/master/doc/index.png" /></div>
+
 
 
 
