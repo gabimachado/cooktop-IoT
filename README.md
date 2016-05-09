@@ -36,7 +36,7 @@ The proposed solution was to design a home automation system that has two modes 
 
 <div style="text-align:center"><img src ="https://github.com/gabimachado/cooktop-IoT/blob/master/doc/process_model.png" /></div>
 
-## Analysis
+## Visualization
   
   Using the ThingSpeak and ThingView applications, the user can access the latest readings from the sensor.
   
