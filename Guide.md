@@ -17,11 +17,11 @@ First of all, you need to prepare your Raspberry Pi. Using the Terminal, follow 
 * Log In in your Django user
 <div style="text-align:center"><img src ="https://github.com/gabimachado/cooktop-IoT/blob/master/doc/admin.png" /></div>
 
-*At the first time, post the following:
-*manual* to the mode list at *http://127.0.0.1:8000/mode/*
+* At the first time, post the following:
+**manual** to the mode list at **http://127.0.0.1:8000/mode/**
 <div style="text-align:center"><img src ="https://github.com/gabimachado/cooktop-IoT/blob/master/doc/mode.png" /></div>
 <br>
-*off* to the state list at *http://127.0.0.1:8000/state/*
+**off** to the state list at **http://127.0.0.1:8000/state/**
 <div style="text-align:center"><img src ="https://github.com/gabimachado/cooktop-IoT/blob/master/doc/state.png" /></div>
 <br>
 
