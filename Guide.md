@@ -5,5 +5,9 @@ First of all, you need to prepare your Raspberry Pi. Using the Terminal, follow 
 * Installing Django and REST Framework
 <div style="text-align:center"><img src ="https://github.com/gabimachado/cooktop-IoT/blob/master/doc/django.png" /></div>
 
+* Starting the Django Project
+<div style="text-align:center"><img src ="https://github.com/gabimachado/cooktop-IoT/blob/master/doc/myapp.png" /></div>
+
 * 
+
 
