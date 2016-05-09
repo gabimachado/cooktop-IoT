@@ -47,9 +47,6 @@ To analyze the temperature data, follow the next steps:
 * Name your project
 <div style="text-align:center"><img src ="https://github.com/gabimachado/cooktop-IoT/blob/master/doc/proj.png" /></div>
 
-* Update your channel
-<div style="text-align:center"><img src ="https://github.com/gabimachado/cooktop-IoT/blob/master/doc/updating.png" /></div>
-
 * Get an API Key
 <div style="text-align:center"><img src ="https://github.com/gabimachado/cooktop-IoT/blob/master/doc/key.png" /></div>
 
