@@ -34,12 +34,12 @@ First of all, you need to prepare your Raspberry Pi. Using the Terminal, follow 
 <br>
 Now, you're able to create your own Induction Cooktop Controller prototype.
 <br>
+<br>
 To analyze the temperature data, follow the next steps:
 * Signup for ThingSpeak
 <div style="text-align:center"><img src ="https://github.com/gabimachado/cooktop-IoT/blob/master/doc/thingspeak.png" /></div>
 
 * Login to ThingSpeak
-<div style="text-align:center"><img src ="https://github.com/gabimachado/cooktop-IoT/blob/master/doc/login.png" /></div>
 
 * Create a channel for your data
 <div style="text-align:center"><img src ="https://github.com/gabimachado/cooktop-IoT/blob/master/doc/channel.png" /></div>
