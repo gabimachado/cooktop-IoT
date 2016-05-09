@@ -8,6 +8,10 @@ First of all, you need to prepare your Raspberry Pi. Using the Terminal, follow 
 * Starting the Django Project
 <div style="text-align:center"><img src ="https://github.com/gabimachado/cooktop-IoT/blob/master/doc/myapp.png" /></div>
 
+* Django REST API
+<div style="text-align:center"><img src ="https://github.com/gabimachado/cooktop-IoT/blob/master/doc/restapi.png" /></div>
+
+
 * 
 
 
